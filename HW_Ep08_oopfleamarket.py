@@ -196,6 +196,7 @@ if __name__ == '__main__':
 	merchant3_2.food()
 	customer1_32.bargaing()
 	merchant3_6.discountfruit('3 กิโล')
+	customer1_32.bargainok()
 
 '''
 cm = categorymarket = {'กับข้าว':{'ผัดกะเพรา':'40 บาท','ผัดกระเทียม':'40 บาท'},

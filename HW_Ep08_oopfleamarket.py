@@ -1,4 +1,4 @@
-#oopfleamarket2.py
+#oopfleamarket.py
 
 class Merchant:
 	def __init__(self,category,sell,gender):
